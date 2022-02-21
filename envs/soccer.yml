@@ -1,0 +1,9 @@
+name: soccer
+channels:
+  - defaults
+dependencies:
+  - python=3.9
+  - pandas
+  - seaborn
+  - matplotlib
+prefix: /Users/bernardotamayo/opt/anaconda3/envs/soccer
